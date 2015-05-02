@@ -1,0 +1,57 @@
+body{
+  height:100%;
+  width:100%;
+  background-color: #F8F8F8;
+}
+
+#wrapper{
+  height:100%;
+  width:100%;
+}
+
+#hello{
+  margin-top: 35px;
+  width:72%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+a:link {
+  color: #FF0000;
+}
+
+a:visited{
+  color: hsl(271, 68%, 32%);
+}
+
+a:hover {
+  color: #FF0000; 
+  text-decoration: none;
+}
+
+a:active {
+  color: #0000FF;
+}
+
+
+body{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:10pt;
+  line-height:1.5em;
+  text-align: center;
+  height:100%
+}
+
+.content {
+  max-width:460px;
+  font-size:10pt;
+  line-height:1.5em;
+  text-align: left;
+  margin: 0 auto;
+}
+
+.social {
+  font-size: 18pt;
+  float: right;
+}
