@@ -1,6 +1,6 @@
 body{
   height:100%;
-  width:100%;
+  width:auto;
   background-color: #F8F8F8;
 }
 
@@ -22,7 +22,7 @@ a:link {
 }
 
 a:visited{
-  color: hsl(271, 68%, 32%);
+  color: #FF0000;
 }
 
 a:hover {
